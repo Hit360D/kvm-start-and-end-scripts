@@ -26,3 +26,4 @@ echo "efi-framebuffer.0" > /sys/bus/platform/drivers/efi-framebuffer/bind
 
 # Restart Display Manager
 systemctl start display-manager.service
+
